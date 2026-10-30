@@ -1,19 +1,21 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:020617,40:0B1F3A,100:2563EB&text=HARSHA-TKD&fontColor=DCE7F5&fontSize=58&fontAlignY=45&animation=fadeIn&stroke=64748B&strokeWidth=1"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0D1117,45:4C1D95,100:00E5FF&text=HARSHA-TKD&fontColor=FFFFFF&fontSize=64&fontAlignY=38&desc=Cybersecurity%20%7C%20Software%20%7C%20IoT%20%7C%20Data%20Science&descSize=18&descAlignY=60&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2500&pause=900&color=60A5FA&center=true&vCenter=true&width=700&lines=CYBERSECURITY+%2F+SOFTWARE+ENGINEERING;FULL+STACK+%2F+IOT+%2F+ROBOTICS;DATA+SCIENCE+%2F+AUTOMATION;BUILDING.+EXPERIMENTING.+INNOVATING."/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=00E5FF&center=true&vCenter=true&width=760&lines=Securing+systems.+Building+software.;Hardware+%2B+Code+%3D+Real-world+projects.;Learn.+Build.+Break.+Fix.+Repeat."/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/IDENTITY-ANONYMOUS-0B1F3A?style=for-the-badge&labelColor=020617"/>
-<img src="https://img.shields.io/badge/DOMAIN-TECHNOLOGY-1D4ED8?style=for-the-badge&labelColor=020617"/>
-<img src="https://img.shields.io/badge/MODE-ALWAYS_LEARNING-334155?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/CYBERSECURITY-00E5FF?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/FULL_STACK-7C3AED?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/IoT_%26_ROBOTICS-22D3A6?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/DATA_SCIENCE-F472B6?style=for-the-badge&labelColor=0D1117"/>
 
 <br/><br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-HARSHA--TKD-0B1F3A?style=for-the-badge&logo=github)](https://github.com/HARSHA-TKD)
-[![Repositories](https://img.shields.io/badge/Repositories-Explore-1D4ED8?style=for-the-badge&logo=github)](https://github.com/HARSHA-TKD?tab=repositories)
+[![GitHub](https://img.shields.io/badge/GitHub-HARSHA--TKD-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF)](https://github.com/HARSHA-TKD)
+[![Repositories](https://img.shields.io/badge/Browse-Repositories-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HARSHA-TKD?tab=repositories)
+![Profile Views](https://komarev.com/ghpvc/?username=HARSHA-TKD&label=VIEWS&color=00E5FF&style=for-the-badge&labelColor=0D1117)
 
 </div>
 
@@ -21,272 +23,126 @@
 
 <div align="center">
 
-### ⌘ NAVIGATION
-
-[PROFILE](#-01--system-profile) •
-[ARSENAL](#-02--technical-arsenal) •
-[ECOSYSTEM](#-03--technology-ecosystem) •
-[PROJECTS](#-04--project-database) •
-[HARDWARE](#-05--hardware-lab) •
-[ARCHITECTURE](#-06--system-architecture) •
-[STATS](#-07--github-analytics) •
-[MISSION](#-08--current-objectives)
+**[PROFILE](#01--system-profile)** · **[ARSENAL](#02--technical-arsenal)** · **[PROJECTS](#03--featured-projects)** · **[HARDWARE](#04--hardware-lab)** · **[WORKFLOW](#05--how-i-build)** · **[STATS](#06--github-analytics)** · **[ROADMAP](#07--roadmap)**
 
 </div>
 
 ---
 
-## `01` // SYSTEM PROFILE
+## 01 // System Profile
 
 ```bash
-┌──[ HARSHA-TKD@github ]
+┌──[ harsha-tkd@github ]─[~]
 └─$ whoami
 
-> Identity       : Anonymous Developer
-> Classification : Technology Enthusiast
-> Focus          : Cybersecurity & Development
-> Domains        : Full Stack / IoT / Data Science
-> Environment   : Linux / Windows
-> Hardware      : Embedded Systems & Robotics
-> Philosophy    : Learn. Build. Experiment.
-> Status        : Continuously Evolving
+  identity     →  Anonymous Developer
+  focus        →  Cybersecurity & Software Development
+  domains      →  Full Stack · IoT · Data Science · Robotics
+  environment  →  Linux (Kali) / Windows
+  philosophy   →  Learn. Build. Experiment.
+  status       →  ● online · continuously evolving
 ```
 
-An independent technology enthusiast exploring the intersection of cybersecurity, software engineering, IoT, robotics and data science.
+I'm an independent builder working at the intersection of **cybersecurity**, **software engineering**, **IoT**, and **data science**. I like understanding how systems really work, then turning that into practical tools and hardware prototypes.
 
-Interested in understanding how systems work, developing practical applications, experimenting with hardware and exploring the engineering behind modern technologies.
-
-**Not just learning technology. Exploring what can be built with it.**
+> **Not just learning technology. Exploring what can be built with it.**
 
 ---
 
-## `02` // TECHNICAL ARSENAL
-
-<details open>
-<summary><b>01 / Programming Languages</b></summary>
-<br/>
-
-<img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,html,css&theme=dark"/>
-
-</details>
-
-<details open>
-<summary><b>02 / Frontend Engineering</b></summary>
-<br/>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite&theme=dark"/>
-
-</details>
-
-<details open>
-<summary><b>03 / Backend Engineering & APIs</b></summary>
-<br/>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,python&theme=dark"/>
-
-<img src="https://img.shields.io/badge/REST_API-0B1F3A?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/JSON-0B1F3A?style=for-the-badge&logo=json&logoColor=white"/>
-<img src="https://img.shields.io/badge/API_Integration-0B1F3A?style=for-the-badge"/>
-
-</details>
-
-<details open>
-<summary><b>04 / Databases & Storage</b></summary>
-<br/>
-
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,supabase,mongodb,redis&theme=dark"/>
-
-<img src="https://img.shields.io/badge/SQL-0B1F3A?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Database_Design-0B1F3A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CRUD_Operations-0B1F3A?style=for-the-badge"/>
-
-</details>
-
-<details open>
-<summary><b>05 / Cybersecurity & Networking</b></summary>
-<br/>
-
-<img src="https://skillicons.dev/icons?i=linux,kali,bash,ubuntu,wireshark&theme=dark"/>
-
-<img src="https://img.shields.io/badge/Nmap-Network_Scanning-0B1F3A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/TCP_IP-Networking-0B1F3A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Web_Security-Exploration-0B1F3A?style=for-the-badge"/>
-
-</details>
-
-<details open>
-<summary><b>06 / IoT, Embedded Systems & Robotics</b></summary>
-<br/>
-
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,opencv&theme=dark"/>
-
-<img src="https://img.shields.io/badge/ESP8266-IoT-0B1F3A?style=for-the-badge&logo=espressif&logoColor=white"/>
-<img src="https://img.shields.io/badge/Arduino-Embedded_Systems-00878A?style=for-the-badge&logo=arduino&logoColor=white"/>
-<img src="https://img.shields.io/badge/Raspberry_Pi-Hardware-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-Computer_Vision-0B1F3A?style=for-the-badge&logo=opencv&logoColor=white"/>
-
-</details>
-
-<details open>
-<summary><b>07 / Data Science & Machine Learning</b></summary>
-<br/>
-
-<img src="https://skillicons.dev/icons?i=python&theme=dark"/>
-
-<img src="https://img.shields.io/badge/Scikit_Learn-Machine_Learning-0B1F3A?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/K--Means-Clustering-0B1F3A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data_Analysis-Exploration-0B1F3A?style=for-the-badge"/>
-
-</details>
-
-<details open>
-<summary><b>08 / DevOps, Cloud & Developer Tools</b></summary>
-<br/>
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,postman,vscode,figma&theme=dark"/>
-
-<img src="https://img.shields.io/badge/Version_Control-Git-0B1F3A?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Containerization-Docker-0B1F3A?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cloud_Platforms-Exploration-0B1F3A?style=for-the-badge"/>
-
-</details>
-
----
-
-## `03` // TECHNOLOGY ECOSYSTEM
-
-```mermaid
-flowchart TD
-    A["TECHNOLOGY LAB"]
-
-    A --> B["Software Engineering"]
-    A --> C["Cybersecurity"]
-    A --> D["IoT & Robotics"]
-    A --> E["Data Science"]
-
-    B --> F["Frontend"]
-    B --> G["Backend"]
-    B --> H["Databases"]
-
-    F --> I["HTML / CSS / JS / TS"]
-    F --> J["React / Next.js"]
-
-    G --> K["Python / Node.js"]
-    G --> L["REST APIs"]
-
-    H --> M["SQL / SQLite"]
-    H --> N["PostgreSQL / Supabase"]
-
-    C --> O["Linux / Kali"]
-    C --> P["Networking / Nmap"]
-
-    D --> Q["Arduino / ESP8266"]
-    D --> R["Raspberry Pi / OpenCV"]
-
-    E --> S["Python / K-Means"]
-```
-
----
-
-## `04` // PROJECT DATABASE
+## 02 // Technical Arsenal
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/PROJECT_ARCHIVE-ACTIVE-0B1F3A?style=for-the-badge&labelColor=020617"/>
+### `LANGUAGES`
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,bash,html,css&theme=dark"/>
+
+### `WEB & BACKEND`
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,nodejs,express,fastapi,flask&theme=dark"/>
+
+### `DATABASES`
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,supabase,mongodb,redis&theme=dark"/>
+
+### `SECURITY & SYSTEMS`
+<img src="https://skillicons.dev/icons?i=linux,kali,ubuntu,wireshark&theme=dark"/>
+
+### `HARDWARE & VISION`
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,opencv&theme=dark"/>
+
+### `TOOLS & DEVOPS`
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,postman,vscode,figma&theme=dark"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Nmap-Network_Scanning-00E5FF?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/TCP%2FIP-Networking-00E5FF?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/REST-APIs-7C3AED?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-ML-F472B6?style=flat-square&logo=scikitlearn&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/K--Means-Clustering-F472B6?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/ESP8266-IoT-22D3A6?style=flat-square&labelColor=0D1117"/>
 
 </div>
 
-### ◈ SOFTWARE & CYBERSECURITY
+---
 
-<details open>
-<summary><b>01. Network Scan Report Generator</b></summary>
+## 03 // Featured Projects
 
-Python-based utility using Nmap to perform network scans and generate structured scan reports.
+### 🛡️ Cybersecurity & Software
 
-`Python` `Nmap` `Networking`
+| Project | What it does | Stack |
+|:--|:--|:--|
+| **Network Scan Report Generator** | Runs Nmap scans and produces structured, readable reports | `Python` `Nmap` |
+| **Phishing Email Identifier** | Examines email indicators to flag suspicious messages | `Python` |
+| **Password Strength Checker** | Evaluates password characteristics and gives feedback | `Python` |
+| **Caesar Cipher Tool** | CLI encryption/decryption with cipher operations | `Python` |
+| **Hangman Ultimate** | Terminal game with game logic and scoring | `Python` |
 
-</details>
+### 📊 Data Science
 
-<details>
-<summary><b>02. Phishing Email Identifier</b></summary>
+| Project | What it does | Stack |
+|:--|:--|:--|
+| **K-Means Clustering: Loan Management** | Explores patterns and groupings in loan data using clustering | `Python` `Scikit-Learn` |
 
-A Python application that examines email indicators to identify potentially suspicious messages.
+### 🤖 Flagship: TERRA-X
 
-`Python` `Email Security`
+<table>
+<tr>
+<td width="62%" valign="top">
 
-</details>
+**An experimental IoT & robotics prototype** combining microcontrollers, sensors, wireless control, and computer vision into one platform.
 
-<details>
-<summary><b>03. Password Strength Checker</b></summary>
+- Servo-based camera system with live video
+- OpenCV-powered computer vision
+- Environmental sensing (temperature and humidity)
+- Ultrasonic distance sensing
+- Wireless control from a mobile device
 
-Evaluates password characteristics and provides strength feedback.
+`IoT` `Embedded` `Robotics` `Computer Vision`
 
-`Python` `Security`
+</td>
+<td width="38%" valign="top">
 
-</details>
-
-<details>
-<summary><b>04. Caesar Cipher Tool</b></summary>
-
-Command-line encryption and decryption utility with cipher operations.
-
-`Python` `Cryptography Fundamentals`
-
-</details>
-
-<details>
-<summary><b>05. Hangman Ultimate</b></summary>
-
-Interactive terminal-based Hangman game with game logic and scoring functionality.
-
-`Python` `CLI`
-
-</details>
-
-### ◈ DATA SCIENCE & MACHINE LEARNING
-
-<details>
-<summary><b>06. K-Means Clustering — Loan Management</b></summary>
-
-An exploratory data project applying K-Means clustering in a loan management context to investigate patterns and groupings within data.
-
-`Python` `K-Means` `Data Analysis`
-
-</details>
-
-### ◈ IoT & HARDWARE ENGINEERING
-
-<details>
-<summary><b>07. TERRA-X — IoT & Robotics Prototype</b></summary>
-
-An experimental hardware project integrating microcontrollers, sensors, wireless control and computer vision.
-
-**Hardware & technologies:**
+**Hardware**
 
 - ESP8266
 - Arduino Uno
 - Raspberry Pi 3
-- DHT11 temperature and humidity sensor
+- DHT11 sensor
 - Ultrasonic sensor
-- Servo-based camera system
-- OpenCV and live video
-- Wireless mobile control
+- Servo motors
 
-`IoT` `Embedded Systems` `Robotics` `Computer Vision`
-
-</details>
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-<a href="https://github.com/HARSHA-TKD?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+[![Explore all repositories](https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-00E5FF?style=for-the-badge&logo=github&logoColor=0D1117)](https://github.com/HARSHA-TKD?tab=repositories)
 
 </div>
 
 ---
 
-## `05` // HARDWARE LAB
+## 04 // Hardware Lab
 
 <div align="center">
 
@@ -294,166 +150,97 @@ An experimental hardware project integrating microcontrollers, sensors, wireless
 
 </div>
 
-| Platform | Exploration |
-|:---|:---|
-| Arduino Uno | Microcontrollers |
-| Raspberry Pi | Single-board computing |
-| ESP8266 | Wireless IoT |
-| DHT11 | Environmental sensing |
-| Ultrasonic Sensor | Distance sensing |
-| Servo Motors | Hardware control |
+| Platform | Role |
+|:--|:--|
+| Arduino Uno | Microcontroller control |
+| Raspberry Pi 3 | Single-board computing and vision |
+| ESP8266 | Wireless IoT connectivity |
+| DHT11 | Temperature and humidity sensing |
+| Ultrasonic sensor | Distance sensing |
+| Servo motors | Mechanical and camera movement |
 | OpenCV | Computer vision |
 
 ---
 
-## `06` // SYSTEM ARCHITECTURE
-
-### A. Project Development Lifecycle
+## 05 // How I Build
 
 ```mermaid
+%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#4C1D95','primaryTextColor':'#fff','primaryBorderColor':'#00E5FF','lineColor':'#00E5FF','secondaryColor':'#0D1117','tertiaryColor':'#0D1117'}}}%%
 flowchart LR
-    A["IDEA"] --> B["RESEARCH"]
-    B --> C["DESIGN"]
-    C --> D["DEVELOP"]
-    D --> E["TEST"]
-    E --> F{"WORKING?"}
-    F -->|NO| G["DEBUG"]
+    A["💡 IDEA"] --> B["🔎 RESEARCH"]
+    B --> C["🧩 DESIGN"]
+    C --> D["⌨️ BUILD"]
+    D --> E["🧪 TEST"]
+    E --> F{"Works?"}
+    F -->|No| G["🐞 DEBUG"]
     G --> D
-    F -->|YES| H["DOCUMENT"]
-    H --> I["GITHUB"]
-    I --> J["IMPROVE"]
+    F -->|Yes| H["📝 DOCUMENT"]
+    H --> I["🚀 PUSH TO GITHUB"]
+    I --> J["♻️ IMPROVE"]
     J --> B
-
-    style A fill:#0B1F3A,color:#fff
-    style I fill:#1D4ED8,color:#fff
-    style J fill:#334155,color:#fff
 ```
 
-### B. Full-Stack Application Architecture
-
 ```mermaid
-flowchart TB
-    U["USER"]
-    FE["Frontend - React / Next.js"]
-    API["REST API"]
-    BE["Backend - Python / Node.js"]
-    DB["Database - SQL / SQLite / PostgreSQL"]
-    SB["Supabase Services"]
-
-    U --> FE
-    FE --> API
-    API --> BE
-    BE --> DB
-    BE --> SB
-
-    style U fill:#334155,color:#fff
-    style FE fill:#1D4ED8,color:#fff
-    style API fill:#0B1F3A,color:#fff
-    style BE fill:#1D4ED8,color:#fff
-    style DB fill:#0B1F3A,color:#fff
-    style SB fill:#334155,color:#fff
-```
-
-### C. Project Classification
-
-```mermaid
+%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#4C1D95','primaryTextColor':'#fff','primaryBorderColor':'#00E5FF','lineColor':'#22D3A6'}}}%%
 flowchart TD
-    A["PROJECT ARCHIVE"]
-
-    A --> B["Cybersecurity"]
-    A --> C["Software Development"]
-    A --> D["IoT & Robotics"]
-    A --> E["Data Science"]
-
-    B --> F["Network Scanner"]
-    B --> G["Phishing Identifier"]
-    B --> H["Password Checker"]
-
-    C --> I["Caesar Cipher"]
-    C --> J["Hangman Ultimate"]
-
-    D --> K["TERRA-X"]
-
-    E --> L["K-Means Loan Management"]
-
-    style A fill:#0B1F3A,color:#fff
-    style K fill:#1D4ED8,color:#fff
-    style L fill:#1D4ED8,color:#fff
-```
-
-### D. Learning & Exploration Cycle
-
-```mermaid
-flowchart TD
-    A["EXPLORE TECHNOLOGY"]
-    A --> B["LEARN CONCEPTS"]
-    B --> C["BUILD PROJECTS"]
-    C --> D["EXPERIMENT"]
-    D --> E["IDENTIFY LIMITATIONS"]
-    E --> F["IMPROVE"]
-    F --> G["DOCUMENT & SHARE"]
-    G --> A
-
-    style A fill:#0B1F3A,color:#fff
-    style C fill:#1D4ED8,color:#fff
-    style F fill:#334155,color:#fff
+    A(["🧠 HARSHA-TKD"])
+    A --> B["🛡️ Cybersecurity"]
+    A --> C["💻 Software"]
+    A --> D["🤖 IoT & Robotics"]
+    A --> E["📊 Data Science"]
+    B --> B1["Nmap · Linux · Networking"]
+    C --> C1["Python · JS/TS · React"]
+    D --> D1["Arduino · ESP8266 · Pi · OpenCV"]
+    E --> E1["Python · K-Means"]
 ```
 
 ---
 
-## `07` // GITHUB ANALYTICS
+## 06 // GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=HARSHA-TKD&show_icons=true&hide_border=true&bg_color=020617&title_color=60A5FA&icon_color=60A5FA&text_color=C0C7D1"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=HARSHA-TKD&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=7C3AED&text_color=C9D1D9&ring_color=00E5FF"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARSHA-TKD&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARSHA-TKD&layout=compact&hide_border=true&bg_color=020617&title_color=60A5FA&text_color=C0C7D1"/>
+<br/>
 
-<br/><br/>
+<img width="90%" src="https://streak-stats.demolab.com?user=HARSHA-TKD&hide_border=true&background=0D1117&ring=00E5FF&fire=7C3AED&currStreakLabel=00E5FF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E"/>
 
-<img width="80%" src="https://streak-stats.demolab.com?user=HARSHA-TKD&hide_border=true&background=020617&ring=3B82F6&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=C0C7D1&dates=94A3B8"/>
+<br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=HARSHA-TKD&bg_color=0D1117&color=C9D1D9&line=00E5FF&point=7C3AED&area=true&area_color=00E5FF&hide_border=true"/>
 
 </div>
 
 ---
 
-## `08` // CONTRIBUTION MONITOR
+## 07 // Roadmap
 
-<div align="center">
+| Status | Goal |
+|:--:|:--|
+| ✅ | Python application development |
+| ✅ | Linux and Kali Linux |
+| ✅ | IoT and embedded systems |
+| 🔄 | Networking fundamentals → advanced |
+| 🔄 | Full-stack application development |
+| 🔄 | SQL and database management |
+| 🎯 | Penetration testing methodology |
+| 🎯 | CTF competitions |
+| 🎯 | Advanced cybersecurity tooling |
+| 🎯 | More IoT prototypes |
+| 🎯 | Applied machine learning |
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=HARSHA-TKD&bg_color=020617&color=C0C7D1&line=3B82F6&point=60A5FA&area=true&hide_border=true"/>
-
-</div>
-
----
-
-## `09` // CURRENT OBJECTIVES
-
-- [x] Explore Python development
-- [x] Experiment with Linux and Kali Linux
-- [x] Build practical Python applications
-- [x] Explore IoT and embedded systems
-- [ ] Advance networking knowledge
-- [ ] Explore penetration testing methodology
-- [ ] Develop more IoT prototypes
-- [ ] Explore full-stack application development
-- [ ] Explore SQL and database management
-- [ ] Explore machine learning applications
-- [ ] Participate in CTF challenges
-- [ ] Build advanced cybersecurity tools
+<sub>✅ done · 🔄 in progress · 🎯 next up</sub>
 
 ---
 
 <div align="center">
 
-## `SYSTEM MESSAGE`
+### `BUILD. EXPERIMENT. SECURE. INNOVATE.`
 
-### BUILD. EXPERIMENT. SECURE. INNOVATE.
+<img src="https://img.shields.io/badge/STATUS-UNDER_CONTINUOUS_DEVELOPMENT-00E5FF?style=for-the-badge&labelColor=0D1117"/>
 
-<img src="https://img.shields.io/badge/STATUS-UNDER_CONTINUOUS_DEVELOPMENT-0B1F3A?style=for-the-badge&labelColor=020617"/>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:0B1F3A,100:020617&height=150&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,55:4C1D95,100:0D1117&height=140&section=footer"/>
 
 </div>
