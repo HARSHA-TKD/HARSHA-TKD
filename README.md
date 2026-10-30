@@ -18,7 +18,7 @@
 
 <br/>
 
-**[IDENTITY](#01--identity)** · **[ARSENAL](#02--technical-arsenal)** · **[MISSIONS](#03--missions)** · **[LAB](#04--hardware-lab)** · **[METHOD](#05--method)** · **[TELEMETRY](#06--telemetry)** · **[ROADMAP](#07--roadmap)**
+**[IDENTITY](#01--identity)** · **[ARSENAL](#02--technical-arsenal)** · **[MISSIONS](#03--missions)** · **[LAB](#04--hardware-lab)** · **[METHOD](#05--method)** · **[TELEMETRY](#06--telemetry)** · **[PRINCIPLES](#07--operating-principles)**
 
 </div>
 
@@ -190,23 +190,24 @@ mindmap
 
 ---
 
-## 07 // Roadmap
+## 07 // Operating Principles
 
-| Status | Objective |
-|:-:|:--|
-| ✅ | Python application development |
-| ✅ | Linux and Kali Linux |
-| ✅ | IoT and embedded systems |
-| 🔄 | Networking, from fundamentals to advanced |
-| 🔄 | Full-stack application development |
-| 🔄 | SQL and database management |
-| 🎯 | Penetration testing methodology |
-| 🎯 | CTF challenges |
-| 🎯 | Advanced cybersecurity tools |
-| 🎯 | More IoT prototypes |
-| 🎯 | Applied machine learning |
+```text
+> principle_01 : Understand the system before touching it.
+> principle_02 : Build small, break it, fix it, repeat.
+> principle_03 : Security is a habit, not a feature.
+> principle_04 : Hardware makes code real.
+> principle_05 : Document everything. Future me will say thanks.
+> principle_06 : Stay curious. Stay anonymous. Keep shipping.
+```
 
-<sub>✅ completed · 🔄 in progress · 🎯 next target</sub>
+<div align="center">
+
+| 🛡️ DEFEND | ⌨️ CREATE | 🔌 CONNECT | 📊 DISCOVER |
+|:-:|:-:|:-:|:-:|
+| Secure what you build | Turn ideas into tools | Make hardware talk | Find patterns in data |
+
+</div>
 
 ---
 
