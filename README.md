@@ -1,20 +1,8 @@
-# HARSHA-VARDHAN-V-G
-<!--
-    HARSHA VARDHAN V G | GitHub Profile README
-    Theme: Dark Hacker / Neon Green
--->
-
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0D2818,100:00FF88&height=180&section=header&text=HARSHA-TKD&fontSize=48&fontColor=00FF88&fontAlignY=38&desc=Developer%20%7C%20Cybersecurity%20Learner&descAlignY=60&descSize=16" width="100%" alt="Dark green hacker-style header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071426,50:0B1F3A,100:3B82F6&height=200&section=header&text=HARSHA%20VARDHAN&fontSize=45&fontColor=C0C7D1&animation=fadeIn&fontAlignY=35&desc=CYBERSECURITY%20%7C%20SOFTWARE%20DEVELOPMENT&descAlignY=55&descSize=15" width="100%"/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=900&color=00FF88&center=true&vCenter=true&width=650&lines=Initializing+developer+profile...;Learning+Linux+%7C+Python+%7C+Networking;Building+tools+and+secure+software;Learning+to+find+and+fix+vulnerabilities;Build.+Debug.+Secure.+Repeat." alt="Animated typing introduction"/>
-
-  <br/>
-
-  <img src="https://img.shields.io/badge/Focus-Cybersecurity-00ff88?style=for-the-badge&labelColor=0d1117" alt="Cybersecurity focus"/>
-  <img src="https://img.shields.io/badge/Track-Software%20Development-00ff88?style=for-the-badge&labelColor=0d1117" alt="Software development"/>
-  <img src="https://img.shields.io/badge/Status-Always%20Learning-00ff88?style=for-the-badge&labelColor=0d1117" alt="Always learning"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=C0C7D1&center=true&vCenter=true&width=650&lines=Cybersecurity+Enthusiast;Python+Developer;Ethical+Hacking+Learner;Building+%7C+Breaking+%7C+Securing;Always+Learning+Something+New" />
 
 </div>
 
@@ -23,125 +11,117 @@
 ## `whoami`
 
 ```bash
-$ whoami
-Harsha Vardhan
+harsha@github:~$ whoami
 
-$ cat mission.txt
-Learn. Build. Test. Secure. Improve.
-
-$ cat interests.txt
-Cybersecurity | Software Development
-Linux | Python | Networking | Git
+Name       : Harsha Vardhan V G
+Role       : Cybersecurity Enthusiast
+Focus      : Ethical Hacking & Software Development
+Languages  : Python, C, JavaScript
+Environment: Linux | Kali Linux | Windows
+Mindset    : Learn. Build. Test. Improve.
 ```
 
-Hey! I'm **Harsha Vardhan V G**, a first-year Computer Science Engineering student specializing in Cybersecurity.
+I'm an engineering student passionate about cybersecurity, ethical hacking, Python development, and building practical software projects.
 
-I'm learning how software works, how systems can be secured, and how to build useful developer tools.
-
-- 🛡️ Exploring ethical hacking and application security
-- 💻 Learning Python, programming fundamentals, and Git
-- 🐧 Practicing Linux and networking
-- 🔍 Exploring beginner CTF challenges and security labs
-- 🚀 Building small projects and improving them step by step
-
-> My goal: become a developer who understands security from the ground up.
+Currently exploring security tools, networking, automation, and real-world cybersecurity concepts.
 
 ---
 
-## `./tech-stack.sh`
+## ⚡ Technical Arsenal
 
-**Languages & development**
+**Programming**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,c,html,css,js" />
 
-![Python](https://img.shields.io/badge/Python-Learning-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-Learning-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-Exploring-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-Exploring-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Exploring-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+**Cybersecurity & Development**
+<br/>
+<img src="https://skillicons.dev/icons?i=linux,kali,bash,git,github,vscode" />
 
-**Systems & security**
-
-![Linux](https://img.shields.io/badge/Linux-Learning-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-Lab-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-Learning-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Workflow-181717?style=flat-square&logo=github&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-Learning-00AA88?style=flat-square&logo=cisco&logoColor=white)
+**Currently Exploring**
+<br/>
+<img src="https://img.shields.io/badge/Networking-0B1F3A?style=for-the-badge&logo=cisco&logoColor=C0C7D1"/>
+<img src="https://img.shields.io/badge/Penetration_Testing-0B1F3A?style=for-the-badge&logo=kalilinux&logoColor=C0C7D1"/>
+<img src="https://img.shields.io/badge/Python_Automation-0B1F3A?style=for-the-badge&logo=python&logoColor=C0C7D1"/>
 
 ---
 
-## `ls ./projects`
+## 🛠️ Featured Projects
 
-### 🔐 Password Strength Checker
-**Status: Building**
+| Project | Description | Tech |
+|---|---|---|
+| Password Strength Checker | Evaluates password strength | Python |
+| Caesar Cipher Tool | Encryption, decryption & brute force | Python |
+| Phishing Email Identifier | Identifies suspicious email indicators | Python |
+| Network Scan Report Generator | Generates reports from network scans | Python, Nmap |
+| Hangman Ultimate | Interactive command-line game | Python |
 
-A beginner-friendly security tool that checks password strength and gives useful feedback.
-
-- Password length and character variety checks
-- Strength feedback and improvement suggestions
-- Learning string handling, conditionals, and input validation
-
-`Python` `Security Basics` `CLI`
-
-### 🧪 Security Lab Notes
-**Status: Planned**
-
-A collection of notes and exercises from authorized cybersecurity practice labs.
-
-- Linux commands and networking fundamentals
-- Beginner CTF write-ups
-- Vulnerability concepts and defensive lessons
-
-`Linux` `Networking` `CTF`
-
-### 🛠️ Python Security Utilities
-**Status: Planned**
-
-A collection of small Python utilities for learning defensive security and automation.
-
-- Simple file and input validation tools
-- Basic log analysis
-- Clear documentation and test cases
-
-`Python` `Automation` `Defensive Security`
-
-<!--
-When a project is ready:
-1. Create its GitHub repository.
-2. Replace this comment with its real repository link.
-3. Add a short demo, screenshots, tests, and what you learned.
--->
+Explore all my repositories:
+[GitHub Repositories](https://github.com/HARSHA-TKD?tab=repositories)
 
 ---
 
-## `git status --short`
+## 📊 GitHub Analytics
 
 <div align="center">
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HARSHA-TKD&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88&text_color=C9D1D9&ring_color=00FF88" alt="GitHub profile statistics"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=HARSHA-TKD&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&text_color=C0C7D1&icon_color=3B82F6&bg_color=071426" />
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARSHA-TKD&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=C9D1D9" alt="Most used programming languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARSHA-TKD&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6&text_color=C0C7D1&bg_color=071426" />
 
-  <br/>
-
-  <img src="https://streak-stats.demolab.com/?user=HARSHA-TKD&hide_border=true&background=0D1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=808080" alt="GitHub contribution streak"/>
+<img src="https://streak-stats.demolab.com?user=HARSHA-TKD&theme=transparent&hide_border=true&ring=3B82F6&fire=C0C7D1&currStreakLabel=3B82F6&sideLabels=C0C7D1&dates=8B9AAF" width="80%"/>
 
 </div>
 
 ---
 
-## `./connect.sh`
+## 📈 Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HARSHA-TKD&bg_color=071426&color=C0C7D1&line=3B82F6&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+
+---
+
+## 🎯 Current Mission
+
+- [x] Build Python projects
+- [x] Explore Linux and Kali Linux
+- [x] Learn networking fundamentals
+- [ ] Master Python automation
+- [ ] Develop practical penetration-testing skills
+- [ ] Explore bug bounty methodology
+- [ ] Participate in CTF challenges
+- [ ] Build advanced cybersecurity tools
+
+---
+
+## 💻 Developer Philosophy
+
+```python
+class Developer:
+
+    def __init__(self):
+        self.name = "Harsha Vardhan"
+        self.interests = [
+            "Cybersecurity",
+            "Software Development",
+            "Ethical Hacking"
+        ]
+
+    def mission(self):
+        while True:
+            self.learn()
+            self.build()
+            self.test()
+            self.improve()
+```
+
+---
 
 <div align="center">
 
-  <a href="https://github.com/HARSHA-TKD">
-    <img src="https://img.shields.io/badge/GitHub-HARSHA--TKD-00FF88?style=for-the-badge&logo=github&logoColor=00FF88&labelColor=0D1117" alt="Visit my GitHub profile"/>
-  </a>
+### `BUILD. DEBUG. SECURE. REPEAT.`
 
-  Open to learning, building projects, and collaborating with fellow developers.
+<img src="https://img.shields.io/badge/STATUS-LEARNING_AND_BUILDING-0B1F3A?style=for-the-badge&labelColor=071426&color=3B82F6"/>
 
-  <br/>
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF88,50:0D2818,100:000000&height=100&section=footer" width="100%" alt="Green terminal-style footer"/>
-
-  <sub><code>while(alive) { learn(); build(); secure(); }</code></sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:0B1F3A,100:071426&height=110&section=footer"/>
 
 </div>
